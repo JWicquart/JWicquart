@@ -5,7 +5,7 @@
 [![YouTube Follow](https://img.shields.io/youtube/channel/subscribers/UC4Dsz4d2fQp5eYm-2OA8LAg?label=YouTube&style=social)](https://www.youtube.com/channel/UC4Dsz4d2fQp5eYm-2OA8LAg)
 
 
-[![GitHub Follow](https://img.shields.io/badge/-Scholar-61DAFB?logo=react&logoColor=white)](https://www.youtube.com/channel/UC4Dsz4d2fQp5eYm-2OA8LAg)
+[![GitHub Follow](https://img.shields.io/badge/-Scholar-4285F4?logo=Google Scholar&logoColor=blue)](https://scholar.google.fr/citations?user=eINrwKwAAAAJ&hl=en)
 
 
 
