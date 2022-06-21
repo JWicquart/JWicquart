@@ -10,4 +10,4 @@ I'm a PhD student based in Perpignan (France) working on temporal trends and res
 
 * :books: **Research topics**: `macroecology` `temporal ecology` `community ecology` `resilience` `data integration` 
 * :world_map: **Ecosystem**: `coral reefs`
-* :computer: **Tools**: `R` (coding in `tidyverse`), `LateX`
+* :computer: **Tools**: `R` (coding in `tidyverse`), `Google Earth Engine`, `LateX`
