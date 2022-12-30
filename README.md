@@ -8,7 +8,7 @@
 
 I'm a marine ecologist working on temporal trends, disturbance, and resilience of coral reefs. Most of my research projects are related to the [Global Coral Reef Monitoring Network](https://gcrmn.net/) (GCRMN), which is a global network of people involved in coral reef monitoring, that aims to provide the best information available about coral reef status and trends.
 
-* :fr: **Location**: Nantes and Perpignan, France
+* :bank: **Location**: Nantes and Perpignan (France)
 * :books: **Research topics**: `macroecology` `temporal ecology` `resilience` `data integration` `monitoring`
 * :world_map: **Ecosystem**: `coral reefs`
 * :computer: **Tools**: `R` (coding in `tidyverse`), `Google Earth Engine`, `LateX`
