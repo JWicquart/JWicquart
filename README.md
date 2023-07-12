@@ -14,17 +14,18 @@ I'm a marine ecologist working on temporal trends, disturbance, and resilience o
 * :computer: **Tools**: `R`, `Google Earth Engine`, `LateX`
 * :package:	**Favorite R packages**: `tidyverse`, `sf`, `patchwork` 
 
+---
 
-Repositories associated with the GCRMN
+**Repositories associated with the GCRMN**
 
-* GCRMN synthetic datasets
-  * :chart:	[gcrmndb_benthos](https://github.com/JWicquart/gcrmndb_benthos)
-* GCRMN reports
-  * :blue_book:	[pacific_2023](https://github.com/JWicquart/pacific_2023)
-* Others
-  * :label:	[gcrmn_regions](https://github.com/JWicquart/gcrmn_regions)
+* :chart: GCRMN synthetic datasets
+  * [gcrmndb_benthos](https://github.com/JWicquart/gcrmndb_benthos). *Code repository for the GCRMN benthic synthetic dataset*
+* :blue_book: GCRMN reports
+  * [pacific_2023](https://github.com/JWicquart/pacific_2023)
+* :label: Others
+  * [gcrmn_regions](https://github.com/JWicquart/gcrmn_regions). *Code repository to create the shapefile of GCRMN regions*
 
-Repositories associated with scientific articles
+**Repositories associated with scientific articles**
 
-* :page_facing_up: [monitoring_workflow](https://github.com/JWicquart/monitoring_workflow)
-* :page_facing_up: [fish_growth](https://github.com/JWicquart/fish_growth)
+* :page_facing_up: [monitoring_workflow](https://github.com/JWicquart/monitoring_workflow) *Code repository for the article* [A workflow to integrate ecological monitoring data from different sources](https://doi.org/10.1016/j.ecoinf.2021.101543)
+* :page_facing_up: [fish_growth](https://github.com/JWicquart/fish_growth). *Code repository for the article* [Individual back-calculated size-at-age based on otoliths from Pacific coral reef fish species](https://doi.org/10.1038/s41597-020-00711-y)
