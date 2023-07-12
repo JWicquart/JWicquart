@@ -11,4 +11,20 @@ I'm a marine ecologist working on temporal trends, disturbance, and resilience o
 * :bank: **Location**: Nantes and Perpignan (France)
 * :books: **Research topics**: `macroecology` `temporal ecology` `resilience` `data integration` `monitoring`
 * :world_map: **Ecosystem**: `coral reefs`
-* :computer: **Tools**: `R` (coding in `tidyverse`), `Google Earth Engine`, `LateX`
+* :computer: **Tools**: `R`, `Google Earth Engine`, `LateX`
+* :package:	**Favorite R packages**: `tidyverse`, `sf`, `patchwork` 
+
+
+Repositories associated with the GCRMN
+
+* GCRMN synthetic datasets
+  * :chart:	[gcrmndb_benthos](https://github.com/JWicquart/gcrmndb_benthos)
+* GCRMN reports
+  * :blue_book:	[pacific_2023](https://github.com/JWicquart/pacific_2023)
+* Others
+  * :label:	[gcrmn_regions](https://github.com/JWicquart/gcrmn_regions)
+
+Repositories associated with scientific articles
+
+* :page_facing_up: [monitoring_workflow](https://github.com/JWicquart/monitoring_workflow)
+* :page_facing_up: [fish_growth](https://github.com/JWicquart/fish_growth)
