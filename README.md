@@ -11,7 +11,7 @@ I'm a marine ecologist working on temporal trends, disturbance, and resilience o
 * :bank: **Location**: Nantes and Perpignan (France)
 * :books: **Research topics**: `macroecology` `temporal ecology` `resilience` `data integration` `monitoring`
 * :world_map: **Ecosystem**: `coral reefs`
-* :computer: **Tools**: `R` `Google Earth Engine` `LateX`
+* :computer: **Tools**: `R` `Google Earth Engine` `LaTeX`
 * :package:	**Favorite R packages**: `tidyverse` `tidymodels` `sf` `patchwork` 
 
 ---
