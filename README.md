@@ -12,7 +12,7 @@ I'm a marine ecologist working on temporal trends, disturbance, and resilience o
 * :books: **Research topics**: `macroecology` `temporal ecology` `resilience` `data integration` `monitoring`
 * :world_map: **Ecosystem**: `coral reefs`
 * :computer: **Tools**: `R` `Google Earth Engine` `LateX`
-* :package:	**Favorite R packages**: `tidyverse` `sf` `patchwork` 
+* :package:	**Favorite R packages**: `tidyverse` `tidymodels` `sf` `patchwork` 
 
 ---
 
